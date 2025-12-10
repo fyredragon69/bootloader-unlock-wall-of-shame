@@ -9,7 +9,7 @@ The standard unlocking process is to enable **OEM unlocking** from the developer
 
 ## Requirements
 
-- A device to which you can connect your patient.
+- A computer to connect to the device you want to unlock.
 - Ability to tweak terminal commands to fit your system.
 - Ability to follow simple instructions.
 
@@ -19,7 +19,7 @@ The standard unlocking process is to enable **OEM unlocking** from the developer
 
 ## Getting Ready
 
-To unlock you phone, you have to download SDK Platform Tools.
+To unlock your phone, you must download Android SDK Platform Tools.
 
 Go to [developer.android.com](https://developer.android.com/tools/releases/platform-tools#downloads) and download the package for your OS (most likely Windows) and extract the archive where appropriate. 
 On Linux it may be better to use your distro's package manager, although the package may be quite old.
